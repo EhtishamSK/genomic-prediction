@@ -1,4 +1,4 @@
-# Genomic Prediction & Multi-Locus Association Pipeline
+# Genomic Prediction
 
 A modular, reproducible codebase for genomic selection, cross-validation data splitting. This repository integrates classical linear models, tree-based machine learning algorithms, and deep neural network architectures to evaluate predictive accuracy across complex trait datasets.
 
